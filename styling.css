@@ -1,0 +1,46 @@
+body{
+	background-image: url(morning.png);
+	background-size: cover;
+	margin-left: 40px;
+}
+h1{
+	border: 2px solid;
+	border-color: red;
+	border-width: 10px;
+	border-radius: 16px;
+	background-color: gray;
+	text-align: center;
+	color: blue;
+	font-style: italic;
+	padding-top: 10px;
+}
+ul li{
+	font-family: algerian;
+	font-size:25px;
+	color: blue;
+	color:rgb(225, 0 / 1.0);
+}
+h2{
+	background: rgb(180,180/ 180);
+	color: hsl(0, 20%,50%);
+}
+h1{
+	margin-right:40px;
+	color: blueviolet;
+}
+a{
+	border: 4px;
+	border-color:blue;
+	border-width: 6px;
+	border-radius: 8px;
+	background-color: blue;
+	text-align: center;
+	color: red;
+	font-style: italic;
+	padding-top: 5px;
+}
+h1{
+	margin-right: 60px;
+	color: white;
+	border: solid;
+}
